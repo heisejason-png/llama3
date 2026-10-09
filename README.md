@@ -162,5 +162,5 @@ See the [LICENSE](LICENSE) file, as well as our accompanying [Acceptable Use Pol
 ## Questions
 
 For common questions, the FAQ can be found [here](https://llama.meta.com/faq), which will be updated over time as new questions arise.
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
+ 
